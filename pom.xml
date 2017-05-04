@@ -4,6 +4,6 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>module-a</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>module-a</name>
 </project>
